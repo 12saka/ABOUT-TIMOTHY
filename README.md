@@ -1,4 +1,4 @@
-# ABOUT-TIMOTHY SEREM SAKA is ma name 
+# ABOUT-TIMOTHY SEREM SAKA 
     and am much passionate in front 
     as well as backend development 
      skilled in using python,html
